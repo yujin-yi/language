@@ -9,3 +9,7 @@
 | HNSWlib           | Very fast, good balance of speed and accuracy                                 | Can consume more memory compared to some others         |
 | BallTree (NMSLIB) | Versatile with various metric spaces, good for complex datasets               | Can be slower for very large datasets                   |
 | Vald (NGT-ANNG)   | Scalable, designed for cloud-native environments                              | Requires more setup (e.g., Kubernetes cluster)          |
+
+
+
+qsgngt ngt-qg vearch glassmilvus(knowhere) n2
